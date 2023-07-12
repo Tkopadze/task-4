@@ -93,3 +93,29 @@ main .article{
     margin-right:20px;
     margin-left:20px;
 }
+.wrapContact{
+    padding: 78px 130px 94px 130px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+.infoWrap{
+    display: flex;
+    flex-direction: column;
+    margin-right:177px;
+    width:323px;
+}
+.infoWrap .title{
+   margin-bottom:24px;
+   font-size: 26px;
+font-weight: 40;
+color: rgba(25, 18, 107, 1);
+}
+.infoWrap .list{
+color: rgba(13, 105, 169, 1);
+
+}
+.address{
+    color: rgba(0, 0, 0, 1);
+}
