@@ -115,6 +115,8 @@ color: rgba(25, 18, 107, 1);
 .infoWrap .list{
 color: rgba(13, 105, 169, 1);
 
+display: flex;
+flex-direction: row;
 }
 .address{
     color: rgba(0, 0, 0, 1);
