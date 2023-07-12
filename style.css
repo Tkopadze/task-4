@@ -103,7 +103,7 @@ main .article{
 .infoWrap{
     display: flex;
     flex-direction: column;
-    margin-right:177px;
+    margin-right:77px;
     width:323px;
 }
 .infoWrap .title{
