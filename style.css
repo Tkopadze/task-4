@@ -127,3 +127,6 @@ flex-direction: row;
     display: flex;
     flex-direction: column;
 }
+#telephone{
+    margin: 12px 0px;
+}
